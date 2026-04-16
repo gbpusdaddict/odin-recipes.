@@ -1,2 +1,39 @@
-body {background-color: red; color: white(202, 39, 39);}
-.rcecipes2{background-color: blue; color: red}
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+h1 {
+    text-align: center;
+    color: #b22222;
+}
+
+h2 {
+    color: #444;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+ul,ol {
+    margin-left: 20px;
+}
+
+body {
+    padding: 20px;
+}
+
+body {
+    max-width: 600;
+    margin: auto;
+}
+
+container {
+    background-color: white;
+    padding: 20px;
+}
+
+<class="container">
