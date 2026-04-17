@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(22, 00, 00);
+    color: #363;
+    font-family: arial, sans serif;
+    max-width: 600px;
+    padding: 20px;
+    margin: auto;
+}
+.rice-page h1 { 
+    background-color:green;
+    color:bisque;
+    font-style: italic;
+    font-weight: 900; 
+}
+.rice-page p { color: red;
+    font-weight: 300;
+    font-style: italic/bold;
+}
+.rice-page h2 { color:aquamarine;
+    font-weight: 800;
+    font-style: normal;
+}
+
+
+
