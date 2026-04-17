@@ -14,7 +14,8 @@ body {
 }
 .rice-page p { color: red;
     font-weight: 300;
-    font-style: italic/bold;
+    font-style: italic;
+   font-size: bold;
 }
 .rice-page h2 { color:aquamarine;
     font-weight: 800;
